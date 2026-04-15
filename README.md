@@ -67,11 +67,13 @@ GET /api/calculate?birth=1990-01-01
   "analysis": "your destiny analysis result"
 }
 ---
-##🔗 快速运行 / 快速啟動 / Quick Start
+## 🔗 快速运行 / 快速啟動 / Quick Start
 git clone https://github.com/your-repo/zhouyi  
 cd zhouyi  
+
+git clone xxx  
 npm install  
-npm run start
+npm run start  
 
 ## 📊📊 项目截图 / 專案截圖 / Screenshots
 <img width="638" height="355" alt="微信图片_20260207202225" src="https://github.com/user-attachments/assets/45c7e2d5-81fd-4233-88a8-bb1d2784b010" />

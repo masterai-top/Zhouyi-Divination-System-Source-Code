@@ -1,5 +1,6 @@
-# 🔮 Zhouyi Divination System | 周易算命系统 | 周易占卜系統
-
+# 🔮 Zhouyi Divination System | 周易算命系统 | 周易占卜系統|周易命理分析系统
+**I Ching (Yijing) • Bazi • Ziwei • Qimen Dunjia**  
+**周易 • 八字 • 紫微斗数 • 奇门遁甲分析引擎**
 🔥 Chinese Fortune Telling Platform | 命理系统 | 命理系統  
 👉 Bazi + Bagua + Five Elements | API Ready | SaaS Ready | Commercial Use  
 
@@ -24,7 +25,34 @@ Including core calculation modules:
 👉 可用於商業化命理平台或API系統  
 👉 Ready for commercial deployment  
 
+## 🎯 Core Systems | 核心系统
+
+### 🧧 1. I Ching (Yijing) Engine | 周易引擎
+- Generates Hexagram (卦象)
+- Provides line-by-line interpretation (爻辞)
+- Uses the ancient wisdom for divination and advice
+
 ---
+
+### 🌌 2. Bazi Engine | 八字系统
+- Generates Four Pillars of Destiny (年/月/日/时)
+- Ten Gods analysis (十神)  
+- Five Elements balancing (五行强弱)  
+- Luck cycle calculations (大运/流年)
+
+---
+
+### 🧭 3. Ziwei Doushu Engine | 紫微斗数系统
+- 12 Palaces chart generation (十二宫排盘)
+- Star distribution and analysis (主星/辅星)
+- Career, marriage, and health palace analysis
+
+---
+
+### 🧑‍⚖️ 4. Qimen Dunjia Engine | 奇门遁甲系统
+- Time-space grid generation (九宫排盘)
+- Heavenly stems & earthly branches (天干地支)
+- Door, Star, and God configuration analysis
 
 ## ⚙️ 技术价值 / 技術價值 / Features
 
@@ -43,8 +71,35 @@ Including core calculation modules:
 - AI预测系统 / AI預測系統 / AI prediction system  
 - 个人命运分析工具 / 個人命運分析工具 / Personal destiny tools  
 - SaaS平台 / SaaS平台 / SaaS platform  
+## 🌐 Use Cases | 应用场景
+Personal divination and life guidance
+Research and academic studies in metaphysics
+Integration into AI-powered cultural applications
+Teaching and learning tool for traditional Chinese metaphysics
+API service for divination predictions
+## 📊 Performance | 性能表现
+Chart Generation: < 100ms
+Multi-system analysis: < 300ms
+Fully stateless and scalable architecture
+API-ready design for easy integration
 
----
+## 🏗 System Architecture | 系统架构
+
+```mermaid
+graph TD
+    A[User Input (Birth Data)] --> B[Data Normalization Layer]
+    B --> C[System Core Logic (I Ching, Bazi, Ziwei, Qimen)]
+    C --> D1[I Ching Engine]
+    C --> D2[Bazi Engine]
+    C --> D3[Ziwei Engine]
+    C --> D4[Qimen Engine]
+
+    D1 --> E[Interpretation Layer]
+    D2 --> E
+    D3 --> E
+    D4 --> E
+
+    E --> F[UI Output / API Output]
 
 ## 📊 示例输出 / 示例輸出 / Example Result
 
@@ -93,5 +148,13 @@ npm run start
 📱 Telegram：@xuzongbin001
 📧 Email：masterai918@gmail.com
 🔑 Keywords
-
+##⭐ Why This Project | 项目价值
+✔ Comprehensive: Combines multiple divination systems into one cohesive platform
+✔ Fast and Efficient: Optimized for fast calculation and result generation
+✔ Scalable and Modular: Easily extensible with new systems and features
+✔ API-Ready: Ready for integration into other applications and services
+✔ Open Source: Contribute and help improve the platform
 Zhouyi, I-Ching, Bazi, Bagua, Five Elements, Fortune Telling, Divination, Chinese Metaphysics, Prediction System
+
+
+

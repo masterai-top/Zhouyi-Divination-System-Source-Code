@@ -85,7 +85,6 @@ API-ready design for easy integration
 ---
 ## 🏗 System Architecture | 系统架构
 
-```mermaid
 graph TD
     A[User Input (Birth Data)] --> B[Data Normalization Layer]
     B --> C[System Core Logic (I Ching, Bazi, Ziwei, Qimen)]

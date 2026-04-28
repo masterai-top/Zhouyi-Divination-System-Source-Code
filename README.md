@@ -159,8 +159,7 @@ npm run start
 <img width="1247" height="668" alt="微信图片_20260207202257" src="https://github.com/user-attachments/assets/d4709431-e15a-4723-a29f-4cd8471e6164" />
 
 <img width="2446" height="1292" alt="屏幕截图 2024-10-29 115251" src="https://github.com/user-attachments/assets/62e85b7d-0f4c-4805-96d2-a29016505fa9" />
-<img width="2306" height="1369" alt="屏幕截图 2024-10-29 114720" src="https://github.com/user-attachments/assets/98fafd71-03bf-4de3-951b-a105737e7452" />
-<img width="2427" height="1398" alt="屏幕截图 2024-10-29 114655" src="https://github.com/user-attachments/assets/3da966a6-dd7a-4926-8e00-6c975de4f0ea" />
+
 
 👉 Add real screenshots here (very important)
 ---

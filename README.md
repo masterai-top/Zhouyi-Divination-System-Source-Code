@@ -82,7 +82,7 @@ Chart Generation: < 100ms
 Multi-system analysis: < 300ms
 Fully stateless and scalable architecture
 API-ready design for easy integration
-
+---
 ## 🏗 System Architecture | 系统架构
 
 ```mermaid
@@ -128,8 +128,32 @@ cd zhouyi
 
 git clone xxx  
 npm install  
-npm run start  
+npm run start
+## 📸 排盘界面真实截图 / Screenshots
 
+![无极八字排盘](Screenshots/wujibazi.png)  
+**无极八字排盘界面 | Wuji Bazi Chart**
+
+![八字排盘](Screenshots/baizhipaipan.png)  
+**八字排盘界面 | Four Pillars Bazi**
+
+![五行分析](Screenshots/wuxing.png)  
+**五行分析界面 | Five Elements Analysis**
+
+![流年运势](Screenshots/liunian.png)  
+**流年运势分析 | Annual Luck Analysis**
+
+![大六壬排盘](Screenshots/daliuren.png)  
+**大六壬排盘界面 | Da Liuren Chart**
+
+![七政四余排盘](Screenshots/qizhengsiyu.png)  
+**七政四余排盘界面 | Qizheng Siyü Chart**
+
+![七政四余详细](Screenshots/qizheng2.png)  
+**七政四余详细排盘 | Qizheng Detailed Chart**
+
+![综合排盘](Screenshots/paipan.png)  
+**综合排盘总览界面 | Overall Divination Chart**
 ## 📊📊 项目截图 / 專案截圖 / Screenshots
 <img width="638" height="355" alt="微信图片_20260207202225" src="https://github.com/user-attachments/assets/45c7e2d5-81fd-4233-88a8-bb1d2784b010" />
 
@@ -140,13 +164,16 @@ npm run start
 <img width="2427" height="1398" alt="屏幕截图 2024-10-29 114655" src="https://github.com/user-attachments/assets/3da966a6-dd7a-4926-8e00-6c975de4f0ea" />
 
 👉 Add real screenshots here (very important)
-
+---
 ## 🎥 演示视频 / 演示影片 / Demo
  联系TG：@xuzongbin001
 
 ## 📩 联系方式 / 聯絡方式 / Contact
+
 📱 Telegram：@xuzongbin001
+
 📧 Email：masterai918@gmail.com
+
 🔑 Keywords
 ##⭐ Why This Project | 项目价值
 ✔ Comprehensive: Combines multiple divination systems into one cohesive platform

@@ -12,8 +12,7 @@
 本專案是一套完整的周易命理計算系統，基於中國傳統易學理論開發  
 This is a complete Zhouyi-based metaphysics calculation system based on traditional Chinese I-Ching theory  
 
-包含核心命理算法：  
-包含核心命理算法：  
+包含核心命理算法：   
 Including core calculation modules:
 
 - 八字（四柱） / 八字（四柱） / Bazi (Four Pillars)  
@@ -163,8 +162,7 @@ npm run start
 
 👉 Add real screenshots here (very important)
 ---
-## 🎥 演示视频 / 演示影片 / Demo
- 联系TG：@xuzongbin001
+
 
 ## 📩 联系方式 / 聯絡方式 / Contact
 

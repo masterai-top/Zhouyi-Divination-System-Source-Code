@@ -1,91 +1,47 @@
 [简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)
 
-# 瀏覽器端周易、八字、紫微與奇門排盤系統|周易占卜系统源码
+[![JavaScript](https://img.shields.io/badge/JavaScript-Web-F7DF1E?logo=javascript&logoColor=111)](https://github.com/masterai-top/Zhouyi-Divination-System-Source-Code) [![Stars](https://img.shields.io/github/stars/masterai-top/Zhouyi-Divination-System-Source-Code?style=social)](https://github.com/masterai-top/Zhouyi-Divination-System-Source-Code/stargazers) [![Pages](https://img.shields.io/badge/GitHub-Pages-222?logo=github)](https://masterai-top.github.io/Zhouyi-Divination-System-Source-Code/)
 
-面向周易、八卦、占卜測算和傳統文化应用的原始碼專案。该專案適合用於產品展示、技術評估、二次開發、私有化部署和多语言内容優化。
+# 周易原始碼：八字排盤、紫微斗數、奇門遁甲與七政四餘
 
+> 瀏覽器端傳統文化軟體技術快照，可核驗四柱八字、十神、藏干、刑沖合害、大運、時區及天文輔助 JavaScript，並提供七政四餘、大六壬及綜合排盤真實截圖。
 
-## 專案定位
+<table><tr><td width="50%" align="center"><img src="./Screenshots/wujibazi.png" width="470" alt="无极八字排盘"><br><strong>無極八字排盤</strong></td><td width="50%" align="center"><img src="./Screenshots/qizhengsiyu.png" width="470" alt="七政四余排盘"><br><strong>七政四餘排盤</strong></td></tr></table>
 
+## 產品功能
 
-本倉庫聚焦周易占卜系统原始碼展示，可用於建構線上周易測算、八卦占卜、命理工具、傳統文化内容平台和相关应用後台。
+| 系統 | 內容 |
+|---|---|
+| 四柱八字 | 干支、十神、藏干、刑沖合害及大運資料 |
+| 五行與流年 | 產品結果頁與八字計算資料 |
+| 七政四餘與大六壬 | 真實介面截圖；完整服務端算法需另行核驗 |
+| 紫微與奇門整合 | 產品與整合參考，不等同完整本地引擎 |
 
+## 排盤流程
 
+1. 輸入日期、時間、時區及排盤參數。
+2. 時間歸一化並形成四柱資料。
+3. 處理十神、藏干、關係及大運資料。
+4. 呈現排盤結果或請求整合服務。
 
+## 可驗證程式碼
 
+- <code>paipan.js</code>: 八字、十神、藏干、大運及天文片段
+- <code>paipan.gx.js</code>: 干支刑沖合害關係
+- <code>timezone.js</code>, <code>astro.js</code>: 時區與天文輔助
+- <code>utils.js</code>: 請求、日期格式及圖片保存
 
-## 核心能力
+## 產品截圖
 
+<table><tr><td width="50%" align="center"><img src="./Screenshots/baizhipaipan.png" width="470" alt="四柱八字排盘"><br><strong>四柱八字</strong></td><td width="50%" align="center"><img src="./Screenshots/wuxing.png" width="470" alt="五行分析"><br><strong>五行分析</strong></td></tr><tr><td width="50%" align="center"><img src="./Screenshots/daliuren.png" width="470" alt="大六壬排盘"><br><strong>大六壬</strong></td><td width="50%" align="center"><img src="./Screenshots/qizheng2.png" width="470" alt="七政四余详细盘"><br><strong>七政四餘詳細盤</strong></td></tr></table>
 
-- 周易占卜系统原始碼展示
-- 八卦、卦象、測算和傳統文化应用场景
-- 支持前端頁面、產品介绍页和搜尋引擎收錄優化
-- 適合二次開發、介面優化、功能擴展和私有化部署
-- 可配合 GitHub Pages 發布專案主页
-## 📸 排盘界面真实截图 / Screenshots
+## Documentation
 
+- [周易與易經原始碼](https://masterai-top.github.io/Zhouyi-Divination-System-Source-Code/zh-tw/zhouyi-yijing-source-code.html)
+- [八字與四柱](https://masterai-top.github.io/Zhouyi-Divination-System-Source-Code/zh-tw/bazi-four-pillars.html)
+- [紫微與奇門](https://masterai-top.github.io/Zhouyi-Divination-System-Source-Code/zh-tw/ziwei-qimen.html)
+- [七政四餘](https://masterai-top.github.io/Zhouyi-Divination-System-Source-Code/zh-tw/qizheng-siyu.html)
 
-![无极八字排盘](Screenshots/wujibazi.png)  
-**无极八字排盘界面 | Wuji Bazi Chart**
+## 範圍與免責
 
-
-![八字排盘](Screenshots/baizhipaipan.png)  
-**八字排盘界面 | Four Pillars Bazi**
-
-
-![五行分析](Screenshots/wuxing.png)  
-**五行分析界面 | Five Elements Analysis**
-
-
-![流年运势](Screenshots/liunian.png)  
-**流年运势分析 | Annual Luck Analysis**
-
-
-![大六壬排盘](Screenshots/daliuren.png)  
-**大六壬排盘界面 | Da Liuren Chart**
-
-
-![七政四余排盘](Screenshots/qizhengsiyu.png)  
-**七政四余排盘界面 | Qizheng Siyü Chart**
-
-
-![七政四余详细](Screenshots/qizheng2.png)  
-**七政四余详细排盘 | Qizheng Detailed Chart**
-
-
-![综合排盘](Screenshots/paipan.png)  
-**综合排盘总览界面 | Overall Divination Chart**
-## 📊📊 项目截图 / 專案截圖 / Screenshots
-<img width="638" height="355" alt="微信图片_20260207202225" src="https://github.com/user-attachments/assets/45c7e2d5-81fd-4233-88a8-bb1d2784b010" />
-
-
-<img width="1247" height="668" alt="微信图片_20260207202257" src="https://github.com/user-attachments/assets/d4709431-e15a-4723-a29f-4cd8471e6164" />
-
-
-<img width="2446" height="1292" alt="屏幕截图 2024-10-29 115251" src="https://github.com/user-attachments/assets/62e85b7d-0f4c-4805-96d2-a29016505fa9" />
-
-
----
-
-
-## 📩  问题反馈与交流
-
-📱 Telegram：@xuzongbin001
-
-
-📧 Email：masterai918@gmail.com
-
-
-
-
-
-## 關鍵詞
-
-
-周易原始碼、周易占卜系统原始碼、八卦占卜原始碼、命理系统原始碼、Zhouyi divination source code、I Ching source code、Bagua divination system。
-
-
-## 免責聲明
-
-
-本專案用於傳統文化软件展示、技術研究、產品評估和合规应用开发。内容僅供參考，不構成任何確定性预测、醫療、法律、金融或人生决策建議。
+倉庫可驗證所列瀏覽器程式碼與截圖；部分頁面呼叫服務端介面，不能把所有截圖功能描述為完整離線引擎。內容僅供傳統文化軟體研究，不構成確定性、醫療、法律、金融或人生建議。

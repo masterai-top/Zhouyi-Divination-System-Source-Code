@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://masterai-top.github.io/Zhouyi-Divination-System-Source-Code/</loc>
-    <lastmod>2026-08-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <url><loc>https://masterai-top.github.io/Zhouyi-Divination-System-Source-Code/</loc><lastmod>2026-09-27</lastmod></url>
+  <url><loc>https://masterai-top.github.io/Zhouyi-Divination-System-Source-Code/zh-cn/zhouyi-yijing-source-code.html</loc><lastmod>2026-09-27</lastmod></url>
+  <url><loc>https://masterai-top.github.io/Zhouyi-Divination-System-Source-Code/zh-cn/bazi-four-pillars.html</loc><lastmod>2026-09-27</lastmod></url>
+  <url><loc>https://masterai-top.github.io/Zhouyi-Divination-System-Source-Code/zh-cn/ziwei-qimen.html</loc><lastmod>2026-09-27</lastmod></url>
+  <url><loc>https://masterai-top.github.io/Zhouyi-Divination-System-Source-Code/zh-cn/qizheng-siyu.html</loc><lastmod>2026-09-27</lastmod></url>
+  <url><loc>https://masterai-top.github.io/Zhouyi-Divination-System-Source-Code/zh-cn/da-liuren-chart.html</loc><lastmod>2026-09-27</lastmod></url>
+  <url><loc>https://masterai-top.github.io/Zhouyi-Divination-System-Source-Code/zh-cn/javascript-chart-architecture.html</loc><lastmod>2026-09-27</lastmod></url>
+  <url><loc>https://masterai-top.github.io/Zhouyi-Divination-System-Source-Code/zh-tw/zhouyi-yijing-source-code.html</loc><lastmod>2026-09-27</lastmod></url>
+  <url><loc>https://masterai-top.github.io/Zhouyi-Divination-System-Source-Code/zh-tw/bazi-four-pillars.html</loc><lastmod>2026-09-27</lastmod></url>
+  <url><loc>https://masterai-top.github.io/Zhouyi-Divination-System-Source-Code/zh-tw/ziwei-qimen.html</loc><lastmod>2026-09-27</lastmod></url>
+  <url><loc>https://masterai-top.github.io/Zhouyi-Divination-System-Source-Code/zh-tw/qizheng-siyu.html</loc><lastmod>2026-09-27</lastmod></url>
+  <url><loc>https://masterai-top.github.io/Zhouyi-Divination-System-Source-Code/zh-tw/da-liuren-chart.html</loc><lastmod>2026-09-27</lastmod></url>
+  <url><loc>https://masterai-top.github.io/Zhouyi-Divination-System-Source-Code/zh-tw/javascript-chart-architecture.html</loc><lastmod>2026-09-27</lastmod></url>
+  <url><loc>https://masterai-top.github.io/Zhouyi-Divination-System-Source-Code/en/zhouyi-yijing-source-code.html</loc><lastmod>2026-09-27</lastmod></url>
+  <url><loc>https://masterai-top.github.io/Zhouyi-Divination-System-Source-Code/en/bazi-four-pillars.html</loc><lastmod>2026-09-27</lastmod></url>
+  <url><loc>https://masterai-top.github.io/Zhouyi-Divination-System-Source-Code/en/ziwei-qimen.html</loc><lastmod>2026-09-27</lastmod></url>
+  <url><loc>https://masterai-top.github.io/Zhouyi-Divination-System-Source-Code/en/qizheng-siyu.html</loc><lastmod>2026-09-27</lastmod></url>
 </urlset>

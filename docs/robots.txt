@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://masterai-top.github.io/Zhouyi-Divination-System-Source-Code/sitemap.xml
